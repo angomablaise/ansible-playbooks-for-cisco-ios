@@ -7,3 +7,9 @@ ansible_ssh_pass=cisco
 ansible_user=pi
 ansible_network_os=ios
 ansible_connection=network_cli
+[windows]
+10.10.10.2
+10.10.10.18
+[ubuntu]
+10.8.10.2
+10.8.10.400
